@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/intermediates/pre-dexed/release/classes-3513314e580c394bc311865a98307696513f1854.jar"
+        jar="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/intermediates/pre-dexed/release/classes-0472c032b5a0b0a73885dca6e646386160300f9b.jar"
+        jar="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe"/>
+
+</pre-dex-items>

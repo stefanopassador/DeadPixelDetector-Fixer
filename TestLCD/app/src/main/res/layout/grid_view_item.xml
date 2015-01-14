@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:weightSum="0.9">
+    <TextView
+        android:id="@+id/grid_item_label"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@+id/label"
+        android:textSize="30px"
+        android:height="0dp"
+        android:layout_weight="0.3"
+        android:gravity="center">
+    </TextView>
+</LinearLayout>

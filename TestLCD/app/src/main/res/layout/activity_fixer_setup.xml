@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222"
+    >
+
+    <TextView
+        android:id="@+id/textViewFixerSetup"
+        android:layout_margin="30px"
+        android:background="#222"
+        android:textStyle="bold"
+        android:text="@string/info_fixer_setup"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/buttonStart"
+        android:background="#222"
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:text="@string/start"
+        android:textStyle="bold"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="75dp"
+        android:onClick="buttonStart"/>
+
+</RelativeLayout> 

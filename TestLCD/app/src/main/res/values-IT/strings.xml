@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dead Pixel Detector</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="color_choose">Scegli un altro colore</string>
+    <string name="button_choose_color">Usa questo colore</string>
+    <string name="default_colors">Colori di default</string>
+    <string name="other_colors">Altri colori</string>
+    <string name="color_red">Rosso</string>
+    <string name="color_green">Verde</string>
+    <string name="color_blue">Blu</string>
+    <string name="color_white">Bianco</string>
+    <string name="color_black">Nero</string>
+    <string name="color_yellow">Giallo</string>
+    <string name="button_start">Start</string>
+    <string name="color_gray">Grigio</string>
+    <string name="fix_string">Ripara</string>
+    <string name="info">I</string>
+    <string name="menu_legalnotices">Licenze</string>
+        <string name="info_fixer_setup">Lo schermo cambierà velocemente colore per far ripartire i pixel.
+                                     \n\nNon guardare lo schermo.
+                                     \n\nCi sono alte probabilità che funzioni, ma non tutti i pixel possono sempre essere riparati.
+                                     \n\nSi consiglia di lasciar andare l\'applicazione per almeno 30 minuti.
+                                     </string>
+    <string name="start">Start</string>
+    <string name="license">Applicatione realizzata da Stefano Passador e Marco Menardi \n \n
+
+        * android-support-v4.jar
+    \nCopyright (C) 2013 The Android Open Source Project
+    \n
+    \nLicensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    \n
+    \n     http://www.apache.org/licenses/LICENSE-2.0
+    \n
+    \nUnless required by applicable law or agreed to in writing, software
+    \ndistributed under the License is distributed on an "AS IS" BASIS,
+    \nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    \nSee the License for the specific language governing permissions and
+    \nlimitations under the License.
+    \n
+    \n    * HoloColorPicker
+    \nCopyright 2012 Lars Werkman
+    \n
+    \nLicensed under the Apache License, Version 2.0 (the \"License\");
+    \nyou may not use this file except in compliance with the License.
+    \nYou may obtain a copy of the License at
+    \n
+    \n     http://www.apache.org/licenses/LICENSE-2.0
+    \n
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an \"AS IS\" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    </string>
+    <string name="license_name">Licenza</string>
+</resources>

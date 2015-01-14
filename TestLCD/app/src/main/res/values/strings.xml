@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dead Pixel Detector</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_white">White</string>
+    <string name="color_yellow">Giallo</string>
+    <string name="color_black">Black</string>
+    <string name="color_gray">Gray</string>
+    <string name="color_choose">Choose another color</string>
+    <string name="title_activity_color" translatable="false">Color</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="title_activity_choose_color" translatable="false">ChooseColorActivity</string>
+    <string name="title_activity_fixer" translatable="false">Fixer</string>
+    <string name="title_activity_fixer_setup" translatable="false">FixerSetup</string>
+    <string name="button_choose_color">Select color</string>
+    <string name="default_colors">Default colors</string>
+    <string name="other_colors">Other colors</string>
+    <string name="fix_string">Fix it</string>
+    <string name="info">I</string>
+    <string name="info_fixer_setup">The screen will quickly change colors to try to revive pixels.
+                                     \n\nDo not watch the screen.
+                                     \n\nThere are high chances it will work, but not all stuck pixels can always be revived.
+                                     \n\nIt is advisable to leave the application work for at least 30 minutes.
+    </string>
+    <string name="start">Start</string>
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name="license">Application from Stefano Passador and Marco Menardi \n \n
+
+        * android-support-v4.jar
+    \nCopyright (C) 2013 The Android Open Source Project
+    \n
+    \nLicensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    \n
+    \n     http://www.apache.org/licenses/LICENSE-2.0
+    \n
+    \nUnless required by applicable law or agreed to in writing, software
+    \ndistributed under the License is distributed on an "AS IS" BASIS,
+    \nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    \nSee the License for the specific language governing permissions and
+    \nlimitations under the License.
+    \n
+    \n    * HoloColorPicker
+    \nCopyright 2012 Lars Werkman
+    \n
+    \nLicensed under the Apache License, Version 2.0 (the \"License\");
+    \nyou may not use this file except in compliance with the License.
+    \nYou may obtain a copy of the License at
+    \n
+    \n     http://www.apache.org/licenses/LICENSE-2.0
+    \n
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an \"AS IS\" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.</string>
+    <string name="title_activity_license" translatable="false">LicenseActivity</string>
+    <string name="license_name">License</string>
+    <string name="button_start">Start</string>
+
+</resources>

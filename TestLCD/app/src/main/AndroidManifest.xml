@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.smpm.testlcd.app" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TestLcdMainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ColorActivity"
+            android:label="@string/title_activity_color"
+            android:parentActivityName=".TestLcdMainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ChooseColorActivity"
+            android:label="@string/title_activity_choose_color"
+            android:parentActivityName=".TestLcdMainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FixerSetUp"
+            android:label="@string/title_activity_fixer_setup"
+            android:parentActivityName=".TestLcdMainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FixerTimer"
+            android:label="@string/title_activity_fixer_setup"
+            android:parentActivityName=".TestLcdMainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".LicenseActivity"
+            android:label="@string/title_activity_license" >
+        </activity>
+    </application>
+
+</manifest>

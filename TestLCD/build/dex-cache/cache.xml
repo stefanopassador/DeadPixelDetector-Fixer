@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/pre-dexed/debug/support-v4-19.1.0-ce000e674ecf01044ead27faded9017fbf217e1b.jar"
+        jar="/Android/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/app/build/pre-dexed/debug/classes-053bb3959af4166208d887b57e07e8edaeb04364.jar"
+        jar="/Users/stefanopassador/Documents/Develop/testLCD/TestLCD/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>
